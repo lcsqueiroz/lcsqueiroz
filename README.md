@@ -1,12 +1,12 @@
 # 👋 Olá, eu sou Lucas Queiroz!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-end+em+formação;Suporte+de+TI+%7C+Gocil+Tecnologia;Estudante+Origamid;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=008F11&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-end;Suporte+de+TI+%7C+Gocil+Tecnologia;Estudante+GTI;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
 </div>
 
 ## 🚀 Sobre Mim
 
-Sou **Analista de Suporte de TI** na Gocil Tecnologia, atualmente em **transição** para o desenvolvimento front-end.
+Sou **Analista de Suporte de TI** na Gocil Tecnologia e Multisserviços, atualmente em **transição** para o desenvolvimento front-end.
 
 - 🔭 Trabalhando atualmente no **Portal Interno da Gocil**
 - 🌱 Estudando **HTML5, CSS3 e JavaScript**
@@ -67,7 +67,7 @@ Portal interno desenvolvido para a **Gocil Tecnologia Em Segurança E Multisserv
 Combinando **experiência técnica sólida** com **visão de design centrado no usuário**:
 
 **🔧 Background Técnico:**
-- 3+ anos em suporte de TI e infraestrutura
+- 2+ anos em suporte de TI e infraestrutura
 - Conhecimento profundo das necessidades do usuário final
 - Experiência com sistemas corporativos complexos
 
