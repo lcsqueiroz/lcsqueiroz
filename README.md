@@ -6,13 +6,13 @@
 
 ## 🚀 Sobre Mim
 
-Sou **Analista de Suporte de TI** na Gocil Tecnologia, atualmente em transição para o desenvolvimento front-end através da formação completa da **Origamid**. Apaixonado por tecnologia e sempre em busca de novos desafios!
+Sou **Analista de Suporte de TI** na Gocil Tecnologia, atualmente em **transição** para o desenvolvimento front-end.
 
 - 🔭 Trabalhando atualmente no **Portal Interno da Gocil**
-- 🌱 Estudando **HTML5, CSS3, JavaScript, React** na Origamid
+- 🌱 Estudando **HTML5, CSS3 e JavaScript**
 - 💼 Experiência em **Suporte de TI** e **Infraestrutura**
 - 🎯 Objetivo: Transição para **Desenvolvedor Front-end**
-- 📍 Localização: **Brasil**
+- 📍 Localização: **São Paulo, SP**
 
 ## 🛠️ Tech Stack
 
@@ -20,7 +20,6 @@ Sou **Analista de Suporte de TI** na Gocil Tecnologia, atualmente em transição
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Ferramentas & Sistemas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -59,19 +58,30 @@ Portal interno desenvolvido para a **Gocil Tecnologia Em Segurança E Multisserv
 ## 🎓 Formação & Certificações
 
 - 🎯 **Formação Front-end** - Origamid (Em andamento)
+- 🎓 **Gestão de Tecnologia da Informação** - UNICID (Em andamento)
 - 💼 **Suporte de TI** - Experiência prática
 - 🔧 **Infraestrutura de TI** - Experiência corporativa
 
-## 💡 Objetivo Atual
+## 💡 Meu Diferencial
 
-Estou focado em me tornar um **desenvolvedor front-end**, aplicando os conhecimentos adquiridos na Origamid em projetos reais. Minha experiência em suporte de TI me dá uma perspectiva única sobre as necessidades dos usuários finais.
+Combinando **experiência técnica sólida** com **visão de design centrado no usuário**:
+
+**🔧 Background Técnico:**
+- 3+ anos em suporte de TI e infraestrutura
+- Conhecimento profundo das necessidades do usuário final
+- Experiência com sistemas corporativos complexos
+
+**🎨 Visão de Design:**
+- Foco em experiência do usuário (UX/UI)
+- Design thinking aplicado a soluções técnicas
+- Interface intuitiva baseada em feedback real de usuários
 
 ## 📫 Vamos nos conectar!
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucasqueirozvieira)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lqvieira7@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lcsqueiroz)
 
 </div>
