@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Lucas Queiroz!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=663399&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-end;Suporte+de+TI+%7C+Gocil+Tecnologia;Estudante+GTI;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=be90f2&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-end;Suporte+de+TI+%7C+Gocil+Tecnologia;Estudante+GTI;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
 </div>
 
 ## 🚀 Sobre Mim
