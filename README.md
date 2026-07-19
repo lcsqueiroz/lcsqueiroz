@@ -31,28 +31,6 @@ Desenvolvedor Full Stack JavaScript focado no ecossistema Node.js, React e arqui
 
 ---
 
-### Experiência Profissional
-
-**Maví Click** | *Desenvolvedor de Software* *(Fevereiro de 2026 – Presente)*
-*   Desenvolvimento e manutenção do front-end da plataforma Hub em produção utilizando React.js, Vite e CSS Modules.
-*   Integração e consumo assíncrono de APIs RESTful com gerenciamento eficiente de estado local e global.
-*   Otimização de componentes front-end focando na redução de re-renderizações e melhoria no tempo de carregamento da aplicação.
-*   Atuação sob metodologia ágil Scrum com fluxo rigoroso de versionamento via Git (code review, pull requests e estratégias de ramificação).
-
-**Gocil Tecnologia em Segurança e Serviços** | *Analista de Sistemas* *(Agosto de 2023 – Fevereiro de 2026)*
-*   Construção e otimização de queries SQL complexas para auditoria, extração de dados e relatórios gerenciais sobre o ERP TOTVS RM.
-*   Automação de rotinas operacionais de TI e administração de infraestrutura de serviços (IAM via Active Directory e ITSM via GLPI).
-
----
-
-### Formação & Certificações
-
-*   **Graduação:** Bacharelado em Ciência da Computação – Faculdade Carlos Drummond de Andrade *(2025 – 2029, em andamento)*
-*   **Certificação:** IBM Full-Stack JavaScript Developer Specialization – IBM
-*   **Idiomas:** Português (Nativo) | Inglês (Leitura Técnica)
-
----
-
 ### Contato
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=fff&link=https://www.linkedin.com/in/lcsqueiroz/)](https://www.linkedin.com/in/lcsqueiroz/)
